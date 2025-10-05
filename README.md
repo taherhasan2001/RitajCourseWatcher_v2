@@ -85,3 +85,6 @@ python checker.py
 ## 🤝 Contributions
 
 Improvements are welcome!
+
+Follow the quick instructions provided in the link below.
+https://www.figma.com/design/ZVJiHDJlFJwojodghAHXWa/Untitled?node-id=11-258&t=lC1iQbQV63o2WvjV-1
