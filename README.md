@@ -88,3 +88,8 @@ Improvements are welcome!
 
 Follow the quick instructions provided in the link below.
 https://www.figma.com/design/ZVJiHDJlFJwojodghAHXWa/Untitled?node-id=11-258&t=lC1iQbQV63o2WvjV-1
+
+
+
+![PART 1 receiver](images/PART1.png)
+![PART 2 checker](images/PART2.png)
