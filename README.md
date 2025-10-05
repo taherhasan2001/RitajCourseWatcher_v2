@@ -76,7 +76,7 @@ python checker.py
 
 - Don’t worry — this project won’t spam Ritaj. It makes only one request every set period of time. 
 - Make sure `data.json` is **always up to date** with RITAJ course data.
-- I can’t share the course link or scraping code — but you can ask Ritaj Computer Center for the link.
+- I can’t share the main courses link or scraping code — but you can ask Ritaj Computer Center for the link.
 - Each file in `USERS/` represents **one active watch request**.
 - Once a notification is sent, the file is **automatically removed**.
 
